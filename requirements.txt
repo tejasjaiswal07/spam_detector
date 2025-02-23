@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+python-dotenv
+dj-database-url
+drf-spectacular
+pyyaml
+uritemplate
